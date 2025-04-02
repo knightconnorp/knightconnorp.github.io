@@ -10,5 +10,13 @@
 }
 
 .hero-text {
-    text-align: center;
+    	text-align: center;
+	backdrop-filter: blur(3px);
+    	width: 30%;
+
+    	position: relative;
+    	margin:0 auto;
+    	padding-top: 10px;
+    	padding-bottom:10px;
+    	border-radius:25px;
 }
